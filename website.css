@@ -1,0 +1,101 @@
+.flex{
+    display: flex;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('images/maincoffee2.jpg');
+    background-size: cover;
+}
+.m{
+    font-size: 23px;
+    padding-left: 10px;
+}
+.m:active{
+    color: green;
+}
+.srch{
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.txtform{
+    text-align: center;
+    font-size: 30px;
+}
+.pi{
+    margin-left: 300px;
+    padding-top: 30px;
+}
+.b{
+    margin-top: 78px;
+}
+.upli{
+    margin-left: 345px;
+    font-family: 'Noto Serif TC', serif;
+}
+.li{
+    padding-left: 20px;
+    color: whitesmoke;
+    font-size: 29px;
+    padding-top: 20px;
+    padding-bottom: 8px;
+    font-family: 'Noto Serif TC', serif;
+}
+.bd{
+    margin-top: -64px;
+    height: 66px;
+    background-color:#a0522d;
+    opacity: 0.3;
+    width: 1364px;
+    margin-left: -7px;
+}
+.img{
+    padding-left: 10px;
+    margin-top: 12px;
+    margin-bottom: -5px;
+}
+.t1{
+    font-size: 35px;
+    font-size: bold;
+    color: white;
+    font-family: 'Noto Serif TC', serif;
+    margin-left: 5px;
+}
+.t2{
+    font-size: 35px;
+    font-size: bold;
+    color: white;
+    font-family: 'Noto Serif TC', serif;
+    margin-left: 5px;
+}
+.t3{
+    font-size: 35px;
+    font-size: bold;
+    color: white;
+    font-family: 'Noto Serif TC', serif;
+    margin-left: 5px;
+}
+.last{
+    margin-top: 31px;
+    margin-left: 5px;
+}
+.last:hover{
+    cursor: pointer;
+}
+.lastin{
+    color: white;
+    font-size: 28px;
+    padding-left: 56px;
+    padding-right: 80px;
+    width: 110px;
+    border: 4px solid #ffe4e1;
+    font-family: 'Noto Serif TC', serif;
+    padding-bottom: 2px;
+}
+.top{
+    margin-top: 120px;
+    margin-left: 21px;
+}
